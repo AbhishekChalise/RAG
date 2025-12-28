@@ -5,4 +5,3 @@ class RawDocument(BaseModel):
     content: str
     file_type: str
     metadata: Dict[str,Any]
-
